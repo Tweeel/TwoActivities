@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Two Activities</string>
     <string name="send">send</string>
-    <string name="second_text">Message Received </string>
+    <string name="second_text">Message Received</string>
     <string name="editText_main">Enter Your Message Here</string>
     <string name="editText_main2">Enter Your Reply Here</string>
     <string name="reply">reply</string>

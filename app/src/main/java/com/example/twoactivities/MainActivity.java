@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mMessageEditText = findViewById(R.id.editText_main);
-        mReplyHeadTextView = findViewById(R.id.text_header);
-        mReplyTextView = findViewById(R.id.text_message_reply);
+        mReplyHeadTextView = findViewById(R.id.text_header_main);
+        mReplyTextView = findViewById(R.id.text_message_reply_main);
 //        Intent intent = getIntent();
 //        String message = intent.getStringExtra(SecondActivity.EXTRA_REPLY);
 //        TextView textView = findViewById(R.id.text_message_reply);
